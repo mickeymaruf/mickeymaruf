@@ -17,7 +17,7 @@ Skills: PYTHON / JS / DJANGO / WEB 3.O / AI / BOOTSTRAP
 
 - 🔭 I’m currently working on upwork as a freelancer.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mickeymaruf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 mickeymaruf/mickeymaruf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
