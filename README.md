@@ -19,7 +19,7 @@ Skills: PYTHON / JS / DJANGO / WEB 3.O / AI / BOOTSTRAP
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mickeymaruf)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mickeymaruf)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 mickeymaruf/mickeymaruf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
