@@ -8,7 +8,7 @@ Md. Maruf Hossain🙃 , a Software Developer from Bangladesh.
 - 💞️ Technologys that I've already worked on: OpenAI, AWS Polly, StripeAPI, AI web app ...
 - 📫 Well you can send messages to me at thegoldenpopo@gmail.com ...
 
-![Thumbnail](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Thumbnail](https://github.com/mickeymaruf/mickeymaruf/blob/main/githubthumb.png)
 
 #### Top Technologies
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) [![Django Badge](	https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#) [![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](#) [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
