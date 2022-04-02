@@ -1,11 +1,8 @@
 ## Hi there, I'm Maruf. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 - 🙃 Md. Maruf Hossain, a Software Developer from Bangladesh.
-- 🌱 I’m currently Working at upwork.
-- 🧠 The Languages & Frameworks I know: Python, JavaScript, Django
-- 👽 The Frontend Languages I use: Bootstrap
-- 💞️ Technologys that I've already worked on: OpenAI, AWS Polly with web app ...
-- 📫 Well you can send messages to me at thegoldenpopo@gmail.com ...
+- 🌱 I’m currently working at upwork.
+- 💞️ Technologys that I've already worked on: OpenAI, AWS Polly, StripeAPI, Web AI ...
 
 <!-- ![I’m a Software Developer from Bangladesh.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
