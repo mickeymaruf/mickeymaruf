@@ -5,7 +5,7 @@
 :mailbox: Reach me out!
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Ipenywis) [![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/coderone) -->
-[![Linkedin Badge](https://img.shields.io/badge/-mickeymaruf-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mickeymaruf/) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](mailto:thegoldenpopo@gmail.com) [![Mail Badge](https://img.shields.io/badge/-maruf-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:thegoldenpopo@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-mickeymaruf-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mickeymaruf/) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mickeymaruf/) [![Mail Badge](https://img.shields.io/badge/-maruf-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:thegoldenpopo@gmail.com)
 
 
 - 🌱 I’m currently Working at upwork.
