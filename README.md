@@ -13,9 +13,7 @@
 I've worked as a Frontend Developer before and currently working as a Full Stack Developer. I have core Programming knowledge in Python, Django, JavaScript, Web Scraping, Web 3.O, AI and so on.
 
 #### Top Technologies
-[![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) [![Django Badge](	https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#) [![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](#)
-
-Skills: PYTHON / JS / DJANGO / WEB 3.O / AI / BOOTSTRAP
+[![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) [![Django Badge](	https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#) [![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](#) [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
 
 #### Reach me out!
 
