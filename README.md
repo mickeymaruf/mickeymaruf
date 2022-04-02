@@ -2,7 +2,7 @@
 
 ![Thumbnail](https://github.com/mickeymaruf/mickeymaruf/blob/main/githubthumb.png)
 
-Md. Maruf Hossain🙃 , a Software Developer from Bangladesh.
+Md. Maruf Hossain🙃 A Software Developer from Bangladesh.
 
 - 🌱 I’m currently working at upwork.
 - 🧠 The Languages & Frameworks I know: Python, JavaScript, Django
