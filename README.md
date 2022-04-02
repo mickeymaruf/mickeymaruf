@@ -2,7 +2,10 @@
 
 - 🙃 Md. Maruf Hossain, a Software Developer from Bangladesh.
 - 🌱 I’m currently working at upwork.
-- 💞️ Technologys that I've already worked on: OpenAI, AWS Polly, StripeAPI, Web AI ...
+- 🧠 The Languages & Frameworks I know: Python, JavaScript, Django
+- 👽 The Frontend Languages I use: Bootstrap
+- 💞️ Technologys that I've already worked on: OpenAI, AWS Polly, StripeAPI, AI web app ...
+- 📫 Well you can send messages to me at thegoldenpopo@gmail.com ...
 
 <!-- ![I’m a Software Developer from Bangladesh.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
