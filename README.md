@@ -8,7 +8,6 @@ Md. Maruf Hossain🙃 (A Computer Freaker, Programmer, Software Eng, Pen Tester)
 - 🧠 The Languages & Frameworks I know: Python, JavaScript, Django
 - 👽 The Frontend Languages I use: Bootstrap
 - 💞️ Technologys that I've already worked on: OpenAI, AWS Polly, StripeAPI, AI web app ...
-- 📫 Well you can send messages to me at thegoldenpopo@gmail.com ...
 
 #### Top Technologies
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) [![Django Badge](	https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#) [![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](#) [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
