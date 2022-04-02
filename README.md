@@ -1,13 +1,6 @@
 ## Hi there, I'm Maruf. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 - 🙃 Md. Maruf Hossain, a Software Developer from Bangladesh.
-
-:mailbox: Reach me out!
-
-<!-- [![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Ipenywis) [![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/coderone) -->
-[![Linkedin Badge](https://img.shields.io/badge/-mickeymaruf-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mickeymaruf/) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mickeymaruf/) [![Mail Badge](https://img.shields.io/badge/-maruf-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:thegoldenpopo@gmail.com)
-
-
 - 🌱 I’m currently Working at upwork.
 - 🧠 The Languages & Frameworks I know: Python, JavaScript, Django
 - 👽 The Frontend Languages I use: Bootstrap
@@ -24,7 +17,9 @@ I've worked as a Frontend Developer before and currently working as a Full Stack
 
 Skills: PYTHON / JS / DJANGO / WEB 3.O / AI / BOOTSTRAP
 
-- 🔭 I’m currently working on upwork as a freelancer.
+#### Reach me out!
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mickeymaruf/) [![Facebook Badge](https://img.shields.io/badge/maruf-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mickeymaruf/) [![Mail Badge](	https://img.shields.io/badge/maruf-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thegoldenpopo@gmail.com)
 
 <!---
 mickeymaruf/mickeymaruf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
