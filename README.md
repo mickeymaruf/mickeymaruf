@@ -1,3 +1,5 @@
+## Hi there, I'm Md. Maruf Hossain <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+
 <!-- - 👋 Hi there,
 - 🙃 I’m Md. Maruf Hossain from Bangladesh.
 - 👀 I’m interested in Software Development, Web 3.O, Combining webapplication with AI and so on.
@@ -9,7 +11,7 @@
 
 ### Hi there 👋, My name is Maruf.
 #### I’m a Software Developer from Bangladesh.
-![I’m a Software Developer from Bangladesh.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<!-- ![I’m a Software Developer from Bangladesh.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
 I've worked as a Frontend Developer before and currently working as a Full Stack Developer. I have core Programming knowledge in Python, Django, JavaScript, Web Scraping, Web 3.O, AI and so on.
 
