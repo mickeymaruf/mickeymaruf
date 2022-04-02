@@ -2,7 +2,7 @@
 
 ![Thumbnail](https://github.com/mickeymaruf/mickeymaruf/blob/main/githubthumb.png)
 
-Md. Maruf Hossain🙃 A Computer Freaker.
+Md. Maruf Hossain🙃 (A Computer Freaker, Programmer, Software Eng, Pen Tester).
 
 - 🌱 I’m currently working at upwork.
 - 🧠 The Languages & Frameworks I know: Python, JavaScript, Django
