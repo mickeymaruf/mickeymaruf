@@ -2,7 +2,7 @@
 
 ![Thumbnail](https://github.com/mickeymaruf/mickeymaruf/blob/main/githubthumb.png)
 
-Md. Maruf Hossain🙃 (I am a Backend Developer, Programmer).
+Md Maruf Hossain🙃 (I am a Full Stack Developer, Programmer).
 
 - 🌱 I’m currently working at upwork.
 - 🧠 The Languages & Frameworks I know: Python, Django
