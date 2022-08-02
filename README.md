@@ -2,7 +2,7 @@
 
 ![Thumbnail](https://github.com/mickeymaruf/mickeymaruf/blob/main/githubthumb.png)
 
-Md Maruf Hossain🙃 (Full Stack Developer (Back-End Focused), Programmer).
+Md Maruf Hossain🙃 (Programming Enthusiast).
 
 #### Top Technologies
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) [![Django Badge](	https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#)
