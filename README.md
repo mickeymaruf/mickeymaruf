@@ -2,7 +2,7 @@ Hi there, I'm Maruf <img src="https://user-images.githubusercontent.com/1303154/
 
 ![Thumbnail](https://github.com/mickeymaruf/mickeymaruf/blob/main/githubthumb.png)
 
-<small><strong>Software Developer & Programming Enthusiast</strong></small>
+<i><strong>Software Developer & Programming Enthusiast</strong></i>
 
 #### Top Technologies
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
