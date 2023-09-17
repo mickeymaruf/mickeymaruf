@@ -23,10 +23,6 @@ Software Developer & Programming Enthusiast
 
 <h3>Reach me out:</h3>
 <p>
-<a href="https://dev.to/mickeymaruf" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mickeymaruf" height="30" width="40" /></a>
 <a href="https://twitter.com/mickeymaruf" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mickeymaruf" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mickeymaruf" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mickeymaruf" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16521679" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16521679" height="30" width="40" /></a>
-<a href="https://fb.com/mickeymaruf" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mickeymaruf" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mickeymaruf" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mickeymaruf" height="30" width="40" /></a>
 </p>
