@@ -2,7 +2,7 @@ Hi there, I'm Maruf <img src="https://user-images.githubusercontent.com/1303154/
 
 ![Thumbnail](https://github.com/mickeymaruf/mickeymaruf/blob/main/githubthumb.png)
 
-Frontend Developer
+Frontend Developer & Tech Enthusiast
 
 <h3>Languages and Tools:</h3>
 <p>
