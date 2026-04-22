@@ -18,8 +18,7 @@
 
 <br/>
 
-> **Frontend Developer** focused on building high-performance, scalable web applications using **React**, **Next.js**, and modern full-stack technologies.  
-> Experienced in crafting product-driven features, real-time systems, and interactive UX.
+> **Frontend Developer** focused on building high-performance, scalable web applications using **React**, **Next.js**, and modern full-stack technologies. Experienced in crafting product-driven features, real-time systems, and interactive UX.
 
 </div>
 
