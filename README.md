@@ -75,21 +75,12 @@ I'm a **frontend developer** who builds high-performance, scalable web apps with
 
 ### 🤝 &nbsp;Work
 
-<table>
-  <tr>
-    <td width="130"><b>Collaborator at</b></td>
-    <td>
-      <a href="https://resparked.com/">resparked.com</a><br/>
-      <a href="https://www.psd.com/">psd.com</a>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Own work</b></td>
-    <td>
-      <a href="https://toastedmixie.com">toastedmixie.com</a>
-    </td>
-  </tr>
-</table>
+**Collaborator at**
+- [resparked.com](https://resparked.com/)
+- [psd.com](https://www.psd.com/)
+
+**Built**
+- [toastedmixie.com](https://toastedmixie.com)
 
 <br/>
 
