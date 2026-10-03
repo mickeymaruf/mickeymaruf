@@ -8,14 +8,7 @@
 
 <br/>
 
-<sub>React · Next.js · TypeScript · Real-time systems · AI-powered UX</sub>
-
-<br/><br/>
-
-<a href="https://marufh.vercel.app"><img src="https://img.shields.io/badge/Portfolio-marufh.vercel.app-0d1117?style=flat-square&logo=vercel&logoColor=white" /></a>
-<a href="https://linkedin.com/in/mickeymaruf"><img src="https://img.shields.io/badge/LinkedIn-mickeymaruf-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:mickeymaruf@gmail.com"><img src="https://img.shields.io/badge/Email-mickeymaruf@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Based_in-Bangladesh-00b4d8?style=flat-square&logo=googlemaps&logoColor=white" />
+<sub>React · Next.js · TypeScript · Real-time systems · SaaS apps</sub>
 
 </div>
 
@@ -80,6 +73,26 @@ I'm a **frontend developer** who builds high-performance, scalable web apps with
 
 <br/>
 
+### 🤝 &nbsp;Work
+
+<table>
+  <tr>
+    <td width="130"><b>Collaborator at</b></td>
+    <td>
+      <a href="https://resparked.com/">resparked.com</a><br/>
+      <a href="https://www.psd.com/">psd.com</a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Own work</b></td>
+    <td>
+      <a href="https://toastedmixie.com">toastedmixie.com</a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 ---
 
 <div align="center">
@@ -91,9 +104,5 @@ I'm a **frontend developer** who builds high-performance, scalable web apps with
 <a href="https://marufh.vercel.app">Portfolio</a> &nbsp;·&nbsp;
 <a href="https://linkedin.com/in/mickeymaruf">LinkedIn</a> &nbsp;·&nbsp;
 <a href="mailto:mickeymaruf@gmail.com">Email</a>
-
-<br/>
-
-<sub>Built with precision · Shipped with purpose</sub>
 
 </div>
